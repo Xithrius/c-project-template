@@ -1,2 +1,2 @@
 # c-project-template
-A template for Rust projects.
+A template for C projects.
